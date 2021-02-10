@@ -1,0 +1,1253 @@
+Starting Dynare (version 4.5.3).
+Starting preprocessing of the model file ...
+Substitution of endo lags >= 2: added 4 auxiliary variables and equations.
+Found 27 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...
+done
+Preprocessing completed.
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       5.767e-17       -5.767e-17                0
+       1.655e-09        1.655e-09                0
+       1.957e-08       -8.277e-10        1.955e-08
+       1.957e-08       -8.277e-10       -1.955e-08
+          0.1738           0.1738                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.207            1.201           0.1213
+           1.207            1.201          -0.1213
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.04273
+Iter: 2,	 err. = 3.8858e-16, 	 time = 0.020105
+
+Total time of simulation: 0.092431
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       5.767e-17       -5.767e-17                0
+       1.655e-09        1.655e-09                0
+       1.957e-08       -8.277e-10        1.955e-08
+       1.957e-08       -8.277e-10       -1.955e-08
+          0.1738           0.1738                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.207            1.201           0.1213
+           1.207            1.201          -0.1213
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.02459
+Iter: 2,	 err. = 5.5511e-16, 	 time = 0.009289
+
+Total time of simulation: 0.054121
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       4.921e-15       -4.921e-15                0
+       5.665e-09       -5.665e-09                0
+       9.632e-09       -9.632e-09                0
+        1.53e-08         1.53e-08                0
+         0.08983          0.08983                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.105            1.097           0.1313
+           1.105            1.097          -0.1313
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.026588
+Iter: 2,	 err. = 1.7764e-15, 	 time = 0.017124
+
+Total time of simulation: 0.065617
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       4.921e-15       -4.921e-15                0
+       5.665e-09       -5.665e-09                0
+       9.632e-09       -9.632e-09                0
+        1.53e-08         1.53e-08                0
+         0.08983          0.08983                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.105            1.097           0.1313
+           1.105            1.097          -0.1313
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.024668
+Iter: 2,	 err. = 2.2204e-16, 	 time = 0.009557
+
+Total time of simulation: 0.051138
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       9.144e-16        9.144e-16                0
+       1.992e-08        1.992e-08                0
+       2.057e-08       -9.961e-09        1.799e-08
+       2.057e-08       -9.961e-09       -1.799e-08
+          0.0537           0.0537                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.073            1.067           0.1172
+           1.073            1.067          -0.1172
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.026844
+Iter: 2,	 err. = 1.7764e-15, 	 time = 0.013933
+
+Total time of simulation: 0.06943
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       9.144e-16        9.144e-16                0
+       1.992e-08        1.992e-08                0
+       2.057e-08       -9.961e-09        1.799e-08
+       2.057e-08       -9.961e-09       -1.799e-08
+          0.0537           0.0537                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.073            1.067           0.1172
+           1.073            1.067          -0.1172
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.023838
+Iter: 2,	 err. = 6.6613e-16, 	 time = 0.011658
+
+Total time of simulation: 0.04943
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       4.536e-15       -4.536e-15                0
+       4.475e-09        4.475e-09                0
+       4.613e-08       -2.237e-09        4.608e-08
+       4.613e-08       -2.237e-09       -4.608e-08
+         0.03388          0.03388                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.058            1.052           0.1068
+           1.058            1.052          -0.1068
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.019903
+Iter: 2,	 err. = 3.8858e-16, 	 time = 0.02808
+
+Total time of simulation: 0.059561
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       4.536e-15       -4.536e-15                0
+       4.475e-09        4.475e-09                0
+       4.613e-08       -2.237e-09        4.608e-08
+       4.613e-08       -2.237e-09       -4.608e-08
+         0.03388          0.03388                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.058            1.052           0.1068
+           1.058            1.052          -0.1068
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.022302
+Iter: 2,	 err. = 4.4409e-16, 	 time = 0.008347
+
+Total time of simulation: 0.048041
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       4.529e-13        4.529e-13                0
+       2.987e-11        2.987e-11                0
+       1.128e-08        1.128e-08                0
+       1.131e-08       -1.131e-08                0
+         0.02141          0.02141                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.049            1.044          0.09931
+           1.049            1.044         -0.09931
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.031315
+Iter: 2,	 err. = 4.4409e-16, 	 time = 0.009211
+
+Total time of simulation: 0.056538
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       4.529e-13        4.529e-13                0
+       2.987e-11        2.987e-11                0
+       1.128e-08        1.128e-08                0
+       1.131e-08       -1.131e-08                0
+         0.02141          0.02141                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.049            1.044          0.09931
+           1.049            1.044         -0.09931
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.02425
+Iter: 2,	 err. = 4.4409e-16, 	 time = 0.008104
+
+Total time of simulation: 0.048331
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       9.912e-14       -9.912e-14                0
+       2.111e-06       -2.111e-06                0
+       2.112e-06        1.056e-06        1.829e-06
+       2.112e-06        1.056e-06       -1.829e-06
+         0.01285          0.01285                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.043            1.038          0.09366
+           1.043            1.038         -0.09366
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.021969
+Iter: 2,	 err. = 7.2164e-16, 	 time = 0.022394
+
+Total time of simulation: 0.062893
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       9.912e-14       -9.912e-14                0
+       2.111e-06       -2.111e-06                0
+       2.112e-06        1.056e-06        1.829e-06
+       2.112e-06        1.056e-06       -1.829e-06
+         0.01285          0.01285                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.043            1.038          0.09366
+           1.043            1.038         -0.09366
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.024271
+Iter: 2,	 err. = 4.4409e-16, 	 time = 0.006463
+
+Total time of simulation: 0.046683
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       5.781e-15       -5.781e-15                0
+       4.517e-06       -4.517e-06                0
+       4.518e-06        2.258e-06        3.913e-06
+       4.518e-06        2.258e-06       -3.913e-06
+        0.006619         0.006619                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.038            1.035          0.08927
+           1.038            1.035         -0.08927
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.017623
+Iter: 2,	 err. = 2.498e-16, 	 time = 0.006953
+
+Total time of simulation: 0.040351
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       5.781e-15       -5.781e-15                0
+       4.517e-06       -4.517e-06                0
+       4.518e-06        2.258e-06        3.913e-06
+       4.518e-06        2.258e-06       -3.913e-06
+        0.006619         0.006619                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.038            1.035          0.08927
+           1.038            1.035         -0.08927
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.025462
+Iter: 2,	 err. = 4.4409e-16, 	 time = 0.012397
+
+Total time of simulation: 0.056653
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       9.281e-15       -9.281e-15                0
+       1.815e-11       -1.815e-11                0
+       5.281e-08        8.345e-12        5.281e-08
+       5.281e-08        8.345e-12       -5.281e-08
+        0.001875         0.001875                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.035            1.032          0.08575
+           1.035            1.032         -0.08575
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.022033
+Iter: 2,	 err. = 2.2204e-16, 	 time = 0.007077
+
+Total time of simulation: 0.046686
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       9.281e-15       -9.281e-15                0
+       1.815e-11       -1.815e-11                0
+       5.281e-08        8.345e-12        5.281e-08
+       5.281e-08        8.345e-12       -5.281e-08
+        0.001875         0.001875                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.035            1.032          0.08575
+           1.035            1.032         -0.08575
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.020552
+Iter: 2,	 err. = 4.4409e-16, 	 time = 0.008025
+
+Total time of simulation: 0.044848
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       4.721e-14        4.721e-14                0
+       4.384e-06       -4.384e-06                0
+       4.385e-06        2.192e-06        3.797e-06
+       4.385e-06        2.192e-06       -3.797e-06
+        0.001854        -0.001854                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.033             1.03          0.08287
+           1.033             1.03         -0.08287
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.023723
+Iter: 2,	 err. = 1.7764e-15, 	 time = 0.00675
+
+Total time of simulation: 0.045263
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       4.721e-14        4.721e-14                0
+       4.384e-06       -4.384e-06                0
+       4.385e-06        2.192e-06        3.797e-06
+       4.385e-06        2.192e-06       -3.797e-06
+        0.001854        -0.001854                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.033             1.03          0.08287
+           1.033             1.03         -0.08287
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.018318
+Iter: 2,	 err. = 4.4409e-16, 	 time = 0.006036
+
+Total time of simulation: 0.039616
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+        2.53e-14        -2.53e-14                0
+       2.802e-06        1.403e-06        2.426e-06
+       2.802e-06        1.403e-06       -2.426e-06
+       2.805e-06       -2.805e-06                0
+        0.004862        -0.004862                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.031            1.028          0.08046
+           1.031            1.028         -0.08046
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.020833
+Iter: 2,	 err. = 8.8818e-16, 	 time = 0.007324
+
+Total time of simulation: 0.042084
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+byryoyV           		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+        2.53e-14        -2.53e-14                0
+       2.802e-06        1.403e-06        2.426e-06
+       2.802e-06        1.403e-06       -2.426e-06
+       2.805e-06       -2.805e-06                0
+        0.004862        -0.004862                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.031            1.028          0.08046
+           1.031            1.028         -0.08046
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.020056
+Iter: 2,	 err. = 2.2204e-16, 	 time = 0.007123
+
+Total time of simulation: 0.044081
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+Total computing time : 0h00m03s

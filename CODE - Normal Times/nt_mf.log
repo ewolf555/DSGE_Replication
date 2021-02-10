@@ -1,0 +1,137 @@
+Starting Dynare (version 4.5.3).
+Starting preprocessing of the model file ...
+Substitution of endo lags >= 2: added 4 auxiliary variables and equations.
+Found 27 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...
+done
+Preprocessing completed.
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+uV                		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       2.471e-16        2.471e-16                0
+       5.821e-09        5.821e-09                0
+       1.224e-08       -2.911e-09        1.189e-08
+       1.224e-08       -2.911e-09       -1.189e-08
+         0.08983          0.08983                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.105            1.097           0.1313
+           1.105            1.097          -0.1313
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.042696
+Iter: 2,	 err. = 1.7764e-15, 	 time = 0.011508
+
+Total time of simulation: 0.076965
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+
+STEADY-STATE RESULTS:
+
+yV                		 0
+cV                		 0
+gV                		 0
+xiV               		 0
+RV                		 0
+deltamV           		 0
+bV                		 0
+tstarV            		 0
+rhoV              		 0
+lV                		 0
+pieV              		 0
+pieyoyV           		 0
+muV               		 0
+tV                		 0
+rrV               		 0
+byrV              		 0
+RV_ann            		 0
+pieV_ann          		 0
+rrV_ann           		 0
+pieyoyV_ann       		 0
+deltamyoyV        		 0
+byoyV             		 0
+uV                		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+               0               -0                0
+               0               -0                0
+       2.471e-16        2.471e-16                0
+       5.821e-09        5.821e-09                0
+       1.224e-08       -2.911e-09        1.189e-08
+       1.224e-08       -2.911e-09       -1.189e-08
+         0.08983          0.08983                0
+             0.5              0.5                0
+             0.5              0.5                0
+           0.985            0.985                0
+           1.105            1.097           0.1313
+           1.105            1.097          -0.1313
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1, 	 time = 0.02349
+Iter: 2,	 err. = 2.2204e-16, 	 time = 0.00877
+
+Total time of simulation: 0.048445
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+Total computing time : 0h00m01s
